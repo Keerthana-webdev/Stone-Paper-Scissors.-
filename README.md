@@ -92,4 +92,3 @@ This project is built for learning and practicing **JavaScript DOM manipulation 
 
 #### Keerthana S
 
----
