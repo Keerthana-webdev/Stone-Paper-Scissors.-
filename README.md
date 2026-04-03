@@ -4,7 +4,7 @@ A simple and interactive **Stone-Paper-Scissors** game built using **HTML, CSS, 
 
 ---
 
-### 🚀 Features
+### Features
 
 * 🎮 Play against the computer
 * 🔁 Random computer choice generation
@@ -14,7 +14,7 @@ A simple and interactive **Stone-Paper-Scissors** game built using **HTML, CSS, 
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 * **HTML** – Structure of the game
 * **CSS** – Styling and layout
@@ -22,7 +22,7 @@ A simple and interactive **Stone-Paper-Scissors** game built using **HTML, CSS, 
 
 ---
 
-### 📂 Project Structure
+### Project Structure
 
 ```
 Stone-Paper-Scissors/
@@ -37,7 +37,7 @@ Stone-Paper-Scissors/
 
 ---
 
-### 🎯 How to Play
+### How to Play
 
 1. Click on **Rock**, **Paper**, or **Scissors**
 2. The computer will randomly choose its move
@@ -49,7 +49,7 @@ Stone-Paper-Scissors/
 
 ---
 
-### 🧠 Game Rules
+### Game Rules
 
 * Rock 🪨 beats Scissors ✂️
 * Scissors ✂️ beats Paper 📄
@@ -57,7 +57,7 @@ Stone-Paper-Scissors/
 
 ---
 
-### ▶️ How to Run Locally
+### How to Run Locally
 
 1. Clone the repository:
 
@@ -73,7 +73,7 @@ Stone-Paper-Scissors/
 
 ---
 
-### 🔮 Future Improvements
+### Future Improvements
 
 * Add sound effects 🔊
 * Add animations 🎞️
@@ -82,13 +82,13 @@ Stone-Paper-Scissors/
 
 ---
 
-### 🙌 Acknowledgements
+### Acknowledgements
 
 This project is built for learning and practicing **JavaScript DOM manipulation and logic building**.
 
 ---
 
-### 📌 Author
+### Author
 
 #### Keerthana S
 
